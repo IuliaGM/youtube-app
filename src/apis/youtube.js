@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyCEm6QSDekCTyamKdjq-Ar-Z-a5t9J0xmk';
+const KEY = ''; //key removed
 
 //preconfigured instance of axios that already has a baseURL and some default parameters loaded into it
 export default axios.create({
